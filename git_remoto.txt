@@ -1,0 +1,3 @@
+git clone - este comando serve para clonar o repositório do github numa pasta do nosso computador local.
+git push - o comando push envia o repositório com os ficheiros atualizados para o github.
+git pull - este comando faz a atualização do repositório local no nosso computador através do repositório local.
